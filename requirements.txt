@@ -1,0 +1,6 @@
+pymssql
+sqlalchemy
+pandas
+mimesis
+# dotenv
+python-dotenv
